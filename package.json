@@ -1,0 +1,27 @@
+{
+  "name": "mist-proposal",
+  "version": "1.0.0",
+  "description": "LaTeX proposal template for freelancers in the making.",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp-latex": "^1.0.1",
+    "gulp-pdflatex": "^0.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eivindml/mist-proposal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eivindml/mist-proposal/issues"
+  },
+  "homepage": "https://github.com/eivindml/mist-proposal#readme"
+}
